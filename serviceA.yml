@@ -1,0 +1,7 @@
+app:
+  valPropKey: Asam1
+  envPropKey: Dsam2
+
+config:
+  prop:
+    configPropKey: Asam3

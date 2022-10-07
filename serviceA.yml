@@ -1,6 +1,6 @@
 app:
   valPropKey: Asam1
-  envPropKey: Esam2
+  envPropKey: Fsam2
 
 config:
   prop:
